@@ -9,7 +9,7 @@ function Coin() {
 
   return (
     <div>
-      <h1>Coin: {coinId}</h1>
+      <h1>Coin {coinId}</h1>
     </div>
   );
 }
